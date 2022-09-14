@@ -1,10 +1,10 @@
-![GitHub]https://img.shields.io/github/license/Lusckas777/teste
+![GitHub]https://img.shields.io/github/license/Lusckas/teste
 
 # Título 
+Descrição
+## Autores
 
-##Autores
-
-- ' Aluno 1 '
+- ' Aluno 1() '
 - Aluno 2
 - Aluno 3
 - Aluno 4
