@@ -1,4 +1,4 @@
-![GitHub]https://img.shields.io/github/license/Lusckas/teste
+![GitHub](https://img.shields.io/github/license/Lusckas/teste)
 
 # Título 
 Descrição
