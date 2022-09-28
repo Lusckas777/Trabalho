@@ -7,11 +7,11 @@ Para hospedar o site pelo Github, entrar nas confis do arquivo, ir em pages, esc
 
 ## Autores
 
-Matheus Rosa (Games)
-Iago Rosa (App)
-Lucas Malaman (INW)
-Joao Pedro Devisati (Marketing)
-Eduarda Pavan (Pitch)
-Theo (Pitch)
-Lucas Torres (App)
+-Matheus Rosa (Games)
+-Iago Rosa (App)
+-Lucas Malaman (INW)
+-Joao Pedro Devisati (Marketing)
+-Eduarda Pavan (Pitch)
+-Theo (Pitch)
+-Lucas Torres (App)
 
