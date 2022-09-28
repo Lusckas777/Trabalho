@@ -3,7 +3,7 @@
 # Meal 
 Shields.io para colocar a licença, para hospedar um site na internet entrar nas configs do projeto no Github, depois entrar em pages selecionar o ramo main e apertar deploy!
 
-## Autores
+## Autores do projeto 
 
 - Matheus Rosa (Games)
 - Iago Rosa (App)
