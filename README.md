@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/Lusckas777/teste)
 
-# Título 
+# Meal 
 Shields.io para colocar a licença, para hospedar um site na internet entrar nas configs do projeto no Github, depois entrar em pages selecionar o ramo main e apertar deploy!
 
 ## Autores
