@@ -2,8 +2,7 @@
 
 # Meal
 
-Shields.io para colocar a licença
-Para hospedar o site pelo Github, entrar nas confis do arquivo, ir em pages, escolher o ramo main e dar deploy
+Descrição
 
 ## Autores
 
@@ -15,3 +14,7 @@ Para hospedar o site pelo Github, entrar nas confis do arquivo, ir em pages, esc
 - Theo (Pitch)
 - Lucas Torres (App)
 
+# Dicas
+
+Shields.io para colocar a licença
+Para hospedar o site pelo Github, entrar nas confis do arquivo, ir em pages, escolher o ramo main e dar deploy
