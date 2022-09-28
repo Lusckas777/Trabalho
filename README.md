@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/Lusckas777/teste)
 
 # Título 
-Descrição
+Shields.io para colcoar a licença, para hospedar um site na internet
 ## Autores
 
 - ' Aluno 1(INW) '
