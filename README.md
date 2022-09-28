@@ -1,14 +1,17 @@
 ![GitHub](https://img.shields.io/github/license/Lusckas777/teste)
 
-# Título 
-Descrição
+# Meal
+
+Shields.io para colocar a licença
+Para hospedar o site pelo Github, entrar nas confis do arquivo, ir em pages, escolher o ramo main e dar deploy
+
 ## Autores
 
-- ' Aluno 1(INW) '
-- Aluno 2(Game)
-- Aluno 3(Finanças)
-- Aluno 4(Redes)
-- Aluno 5
-- Aluno 6
-- Aluno 7 
+Matheus Rosa (Games)
+Iago Rosa (App)
+Lucas Malaman (INW)
+Joao Pedro Devisati (Marketing)
+Eduarda Pavan (Pitch)
+Theo (Pitch)
+Lucas Torres (App)
 
