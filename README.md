@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/Lusckas777/teste)
 
 # Título 
-Shields.io para colcoar a licença, para hospedar um site na internet
+Shields.io para colocar a licença, para hospedar um site na internet entrar nas configs do projeto no Github
 
 ## Autores
 
