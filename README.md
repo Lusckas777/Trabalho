@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/Lusckas777/teste)
-![GitHub](![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fgithub.com%2FLusckas777%2FTrabalho))
+(![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fgithub.com%2FLusckas777%2FTrabalho))
 
 # Meal
 
