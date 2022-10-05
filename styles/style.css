@@ -4,37 +4,39 @@
 */
 
 /** Smartphone Portrait **/
-body {
+/*body {
     background-color: rgb(144, 224, 98);
 }
 /** Smartphone Landscape **/
-@media(min-width: 576px){
+/*@media(min-width: 576px){
     body {
         background-color: rgb(144, 224, 98);
     }
 }
 /** Tablet Portrait **/
-@media(min-width: 768px){
+/*@media(min-width: 768px){
     body {
         background-color: rgb(144, 224, 98);
     }
 }
 /** Tablet Landscape **/
-@media(min-width: 992px){
+/*@media(min-width: 992px){
     body {
         background-color: rgb(144, 224, 98);
     }
 }
 /**PCs /Note /SmartTV **/
-@media(min-width: 1200px){
+/*@media(min-width: 1200px){
     body {
         background-color: rgb(144, 224, 98);
     }
 }
 /** @media é como se fosse um if, no caso estamos dizendo que se for maior que tantos px a cor deverá ser tal **/
 
+
 .text-align-center{
     text-align: center;
+    border: none;
 }
 
 .text-align-right{
@@ -45,10 +47,47 @@ body {
     text-align: left;
 }
 
-
-
-.imagem{
-    margin: 0;
-   width: 50%;
+.list{
+    list-style: none;
 }
 
+.background{
+    background-color: #ffff;
+}
+
+.background2{
+    background-color: rgb(144, 224, 98);
+    height: 150px;
+}
+
+.img{
+    width: 50px;
+}
+
+.imagem{
+    margin-left: 165px;
+    width: 250px;
+}
+
+.dowload{
+    width: 100px;
+}
+
+.background-img{
+    background-image: url(background.jpg);
+    
+    
+}
+
+.imagem2{
+    width: 450px;
+    height: 300px;
+}
+
+.barra{
+    width: 430px;
+}
+
+.imagem3{
+    width: 410px;
+}
