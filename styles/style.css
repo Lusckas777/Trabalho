@@ -61,7 +61,7 @@
 }
 
 .img{
-    width: 50px;
+    width: 80%;
 }
 
 .imagem{
@@ -79,15 +79,8 @@
     
 }
 
-.imagem2{
-    width: 450px;
-    height: 300px;
-}
+
 
 .barra{
     width: 430px;
-}
-
-.imagem3{
-    width: 410px;
 }
