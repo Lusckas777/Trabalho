@@ -15,7 +15,6 @@ Descrição
 - Theo (Pitch)
 - Lucas Torres (App)
 
-### Dicas
+### Briefing
 
-- Shields.io para colocar a licença
-- Para hospedar o site pelo Github, entrar nas confis do arquivo, ir em pages, escolher o ramo main e dar deploy
+- Nosso site tem como objetivo ter um botão para instalar o nosso aplicativo 
