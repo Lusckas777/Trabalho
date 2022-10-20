@@ -38,63 +38,9 @@
     text-align: center;
     border: none;
 }
-
-.text-align-right{
-    text-align: right;
-}
-
-.text-align-left{
-    text-align: left;
-}
-
-.list{
-    list-style: none;
-}
-
-.background{
-    background-color: #ffff;
-}
-
-.background2{
-    background-color: rgb(144, 224, 98);
-    height: 150px;
-}
-
 .img{
     width: 80%;
 }
-
-.imagem{
-    margin-left: 165px;
-    width: 250px;
-}
-
-.dowload{
-    width: 100px;
-}
-
-.background-img{
-    background-image: url(background.jpg);
-    
-    
-}
-
-
-
-.barra{
-    width: 430px;
-}
-
-.color{
-    color: #000
-}
-
-.backcolor{
-    background-color: rgb(34, 32, 32)
-}
-
-
-
 
 
 
@@ -588,11 +534,4 @@ footer a {
   #googleMaps {
     display: inline;
   }
-}
-  
-
-
-
-.barra{
-    width: 430px;
 }
