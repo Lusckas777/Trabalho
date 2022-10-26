@@ -20,6 +20,6 @@ Site em formato de landing page com o objetivo de conter um botão para que o us
 
 - Nosso site tem como objetivo ter um botão para instalar o nosso aplicativo 
 
-####Tecnologias utilizadas no nosso site
+Tecnologias utilizadas no nosso site
 - html
 - css
