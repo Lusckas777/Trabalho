@@ -3,7 +3,8 @@
 
 # Meal
 
-Descrição
+Descrição:
+Site em formato de landing page com o objetivo de conter um botão para que o usuário possa instalar nosso aplicativo(divulgação do nosso app)
 
 ## Autores
 
@@ -18,3 +19,7 @@ Descrição
 ### Briefing
 
 - Nosso site tem como objetivo ter um botão para instalar o nosso aplicativo 
+
+####Tecnologias utilizadas no nosso site
+- html
+- css
