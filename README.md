@@ -24,7 +24,7 @@ Site em formato de landing page com o objetivo de conter um botão para que o us
 
 
 
-Tecnologias utilizadas no nosso site
+## Tecnologias utilizadas no nosso site
 - html
 - css
 
